@@ -8,7 +8,7 @@
 
 
 "MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
 // mode pengaturan iklan
@@ -61,7 +61,7 @@
 "APPLOVIN_BANNER_ID" : "",
 "APPLOVIN_INTERSTITIAL_ID" : "",
 
-"Button_Start" : "MILAI",
+"Button_Start" : "MULAI",
 "Button_Share" : "BAGIKAN KE TEMAN",
 "Button_Rating" : "5 Bintang",
 
